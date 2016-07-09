@@ -1,0 +1,2 @@
+defmodule Freegeoipx do
+end
